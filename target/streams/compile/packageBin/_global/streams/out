@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/public-transport-routing_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/publicTransport[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/dev/publicTransport[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/publicTransport/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/dev/publicTransport/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/publicTransport/main$Connection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/dev/publicTransport/main$Connection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/publicTransport/main$Connection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/dev/publicTransport/main$Connection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/publicTransport/main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/dev/publicTransport/main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev/publicTransport/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/dev/publicTransport/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resources[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/resources[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resources/data.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/apk/Documents/q2/personal/public-transport-routing/target/scala-2.13/classes/resources/data.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
